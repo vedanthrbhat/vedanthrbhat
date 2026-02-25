@@ -2,7 +2,7 @@
 
 🎓 Computer Science Enthusiast  
 💻 Python & MySQL Developer  
-🚀 Passionate about solving real-world problems using data and backend systems  
+🚀 Passionate about solving real-world problems using data and ai systems  
 
 ---
 
@@ -39,18 +39,6 @@
   <a href="https://medium.com/vedanthrbhat" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="40"/>
   </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vedanthrbhat&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanthrbhat&layout=compact" />
 </p>
 
 ---
