@@ -32,7 +32,7 @@
   <a href="https://github.com/vedanthrbhat" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/>
   </a>
-  <a href="https://medium.com/vedanthrbhat" target="_blank">
+  <a href="https://medium.com/@vedanthrbhat" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="40"/>
   </a>
 </p>
