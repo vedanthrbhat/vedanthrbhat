@@ -4,7 +4,6 @@
 💻 Python & MySQL Developer  
 🚀 Passionate about solving real-world problems using data and ai systems  
 
----
 
 ## 👨‍💻 About Me
 
@@ -14,7 +13,6 @@
 - 🎯 Goal: Build efficient, scalable, and reliable AI systems
 - 📫 Reach me at: **(vedanthrbhat@gmail.com)**
 
----
 
 ## 🛠️ Core Skills
 
@@ -23,8 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
 </p>
-
----
 
 
 ## 🌐 Connect With Me
@@ -44,3 +40,5 @@
 ---
 
 ⭐ *Thanks for visiting my profile!*
+
+---
