@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Vedanth R Bhat
 
-<!--
-**vedanthrbhat/vedanthrbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Enthusiast  
+💻 Python & MySQL Developer  
+🚀 Passionate about solving real-world problems using data and backend systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Working mainly with **Python and MySQL**
+- 🌱 Learning **Data Processing, AI/ML, and Backend Development**
+- 📊 Interested in **Databases, Data Processing, and Artificial Intelligence**
+- 🎯 Goal: Build efficient, scalable, and reliable AI systems
+- 📫 Reach me at: **(vedanthrbhat@gmail.com)**
+
+---
+
+## 🛠️ Core Skills
+
+### Programming & Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+</p>
+
+---
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vedanthrbhat/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+  </a>
+  <a href="https://github.com/vedanthrbhat" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/>
+  </a>
+  <a href="https://medium.com/vedanthrbhat" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="40"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedanthrbhat&show_icons=true&theme=default" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanthrbhat&layout=compact" />
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile!*
